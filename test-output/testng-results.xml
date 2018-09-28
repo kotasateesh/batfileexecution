@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="145069" started-at="2018-09-27T11:40:38Z" finished-at="2018-09-27T11:43:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="145069" started-at="2018-09-27T11:40:38Z" finished-at="2018-09-27T11:43:03Z">
+      <class name="facebooklogin.NewTest">
+        <test-method status="PASS" signature="openingBrowser()[pri:0, instance:facebooklogin.NewTest@3cb1ffe6]" name="openingBrowser" is-config="true" duration-ms="5539" started-at="2018-09-27T11:40:38Z" finished-at="2018-09-27T11:40:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method status="PASS" signature="facebook()[pri:0, instance:facebooklogin.NewTest@3cb1ffe6]" name="facebook" duration-ms="69058" started-at="2018-09-27T11:40:43Z" finished-at="2018-09-27T11:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method status="PASS" signature="gmail()[pri:0, instance:facebooklogin.NewTest@3cb1ffe6]" name="gmail" duration-ms="56051" started-at="2018-09-27T11:41:52Z" finished-at="2018-09-27T11:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmail -->
+        <test-method status="PASS" signature="yahoo()[pri:0, instance:facebooklogin.NewTest@3cb1ffe6]" name="yahoo" duration-ms="12950" started-at="2018-09-27T11:42:48Z" finished-at="2018-09-27T11:43:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoo -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:facebooklogin.NewTest@3cb1ffe6]" name="afterTest" is-config="true" duration-ms="1409" started-at="2018-09-27T11:43:01Z" finished-at="2018-09-27T11:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- facebooklogin.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
